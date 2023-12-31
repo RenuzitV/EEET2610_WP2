@@ -4,5 +4,12 @@
         "cmath": "cpp",
         "limits": "cpp",
         "*.tcc": "cpp"
-    }
+    },
+    "cSpell.words": [
+        "BLDC",
+        "brushless",
+        "microcontroller",
+        "platformio",
+        "Setpoint"
+    ]
 }

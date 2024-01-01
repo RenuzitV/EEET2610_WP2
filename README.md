@@ -1,10 +1,11 @@
 # PID Tuning Program for Inverted Pendulum
 
+This program is designed to provide an efficient way to learn about PID controls in propellers and drones.
+
 # Dependencies
 
 Requires `platformio` to be installed on VSCode.
 
-This program is designed to provide an efficient way to learn about PID controls in propellers and drones.
 
 # The Setup
 
